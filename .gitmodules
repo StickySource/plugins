@@ -1,0 +1,6 @@
+[submodule "bounds-maven-plugin"]
+	path = bounds-maven-plugin
+	url = git@github.com:StickySource/bounds-maven-plugin.git
+[submodule "shifty-maven-plugin"]
+	path = shifty-maven-plugin
+	url = git@github.com:StickySource/shifty-maven-plugin.git
