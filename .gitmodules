@@ -4,3 +4,6 @@
 [submodule "shifty-maven-plugin"]
 	path = shifty-maven-plugin
 	url = git@github.com:StickySource/shifty-maven-plugin.git
+[submodule "happy-maven-plugin"]
+	path = happy-maven-plugin
+	url = git@github.com:stickycode/happy-maven-plugin.git
