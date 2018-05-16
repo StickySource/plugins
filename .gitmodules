@@ -7,3 +7,6 @@
 [submodule "happy-maven-plugin"]
 	path = happy-maven-plugin
 	url = git@github.com:stickycode/happy-maven-plugin.git
+[submodule "stile-maven-plugin"]
+	path = stile-maven-plugin
+	url = git@github.com:StickySource/stile-maven-plugin.git
